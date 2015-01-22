@@ -1,5 +1,4 @@
 # exclude everything except for the config files
 /build/*
-/src/*
-!/src/package.json
+/src/node_modules
 /node_modules
