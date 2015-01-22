@@ -3,7 +3,7 @@ Configuration files to set up a build environment for nodejs with a 6to5 transpi
 
 
 # map structure
-
+```
 Gruntfile.js
 package.json
 node_modules
@@ -13,7 +13,8 @@ src
 	- node_modules
 		- *module data*
 build
-	
+```
+
 # first time run:
 - copy Gruntfile.js and the package.json from the same folder into the root of your project
 - cd to the src folder and call 'npm install' to install the express server modules
