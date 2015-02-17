@@ -16,8 +16,5 @@
     "grunt-nodemon": "^0.3.0",
     "grunt-sync": "^0.2.3",
     "load-grunt-tasks": "^2.0.0"
-  },
-  "dependencies": {
-    "express": "^4.11.1"
   }
 }
