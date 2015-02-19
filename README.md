@@ -1,4 +1,5 @@
 # nodejs_es6_build_config
+https://david-dm.org/jaapbaardaap/nodejs_es6_build_config.svg
 Configuration files to set up a express server environment for nodejs with a 6to5 transpiler and a nodemon service
 
 
